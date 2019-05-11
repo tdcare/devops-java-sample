@@ -17,7 +17,7 @@ pipeline {
         DOCKERHUB_NAMESPACE = 'tdcare'
         GITHUB_ACCOUNT = 'tdcare'
         APP_NAME = 'devops-java-sample'
-        SONAR_CREDENTIAL_ID= '33dd77f3dc8acff04954f1b58f197fd0af725682'
+        SONAR_CREDENTIAL_ID= 'sonar-token'
     }
 
     stages {
